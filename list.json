@@ -10,5 +10,7 @@
   "KB3046480": "This article describes an update that has effect when you upgrade Windows 8.1 or Windows 7 to a later version of Windows.",
   "KB3050265": "General improvements are made to support upgrades to a later version of Windows.",
   "KB3050267": "General improvements are made to support upgrades to a later version of Windows.",
-  "KB3068708": "By applying this service, you can add benefits from the latest version of Windows to systems that have not yet upgraded. [replaces KB3022345]"
+  "KB3068708": "By applying this service, you can add benefits from the latest version of Windows to systems that have not yet upgraded. [replaces KB3022345]",
+  "KB3075249": "Update that adds telemetry points to consent.exe in Windows 8.1 and Windows 7",
+  "KB3080149": "Update for customer experience and diagnostic telemetry"
 }
